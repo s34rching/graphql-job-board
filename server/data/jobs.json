@@ -16,5 +16,23 @@
     "companyId": "SJV0-wdOM",
     "title": "Full-Stack Developer",
     "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
+  },
+  {
+    "id": "S1NYCs9PY",
+    "companyId": "HJRa-DOuG",
+    "title": "Test Automation Engineer",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": "ryJ3b35wt",
+    "title": "DevOps Engineer",
+    "description": "To handle pipelines",
+    "companyId": "SJV0-wdOM"
+  },
+  {
+    "id": "HJwrMhcwY",
+    "title": "Business Analyst",
+    "description": "To create Jira tickets",
+    "companyId": "HJRa-DOuG"
   }
 ]
